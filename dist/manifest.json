@@ -1,0 +1,17 @@
+{
+    "name": "GoogleAuthHider",
+    "description": "Hide your email whenever you access a Google Auth page",
+    "version": "1.0",
+    "content_scripts": [
+        {
+            "js": [
+                "index.js"
+            ],
+            "matches": [
+                "https://accounts.google.com/o/oauth2/auth/*",
+                "https://*.accounts.google.com/o/oauth2/auth*"
+            ]
+        }
+    ],
+    "manifest_version": 3
+}
