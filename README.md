@@ -1,6 +1,6 @@
 # Google Authentication Hider
 
-> This is a chrome extension which allows you to hide any emails whenever you access a `accounts.google.com/o/oauth2/`page. It works by gathering all your emails and replacing half of the emails with *
+> This is a chrome extension which allows you to hide any emails whenever you access a `accounts.google.com/o/oauth2/`page. It works by gathering all your emails and replacing half of the emails with the symbol *
 
 ## Install
 
